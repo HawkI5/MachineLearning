@@ -23,7 +23,7 @@ Here we don't know what ML is and why do we need to use it how do we need to use
 ##### Advance your skills
 Once you complete the above mentioned path. Now you know what machine learning will do how to write machine learning applications. But you are not a complete machine learning engineer. So far you learned how use appropriate ML algorithm and predict based on the available data. But to know what exactly happening in the libraries we need to understand more. I will share my understanding where and what do we need to cover to make below, I have categorized based on topics mostly from NPTEL (provides E-learning through online Web and Video _courses_ again I am not branding for this site. I found it useful) .
 #### Mathematics
-[Linear Algebra](https://nptel.ac.in/courses/111/107/111107106/): Here you will learn linear algebra concepts.
-[Probability & Statistics](https://nptel.ac.in/courses/111/106/111106112/): Here start learning concepts of probability and statistics.
-[Basic Calculus](https://www.youtube.com/watch?v=AptQ4rfg79c&list=PL62urGZoWoiQBb2VjW7zsgmAbpuUnjCmt): Learn basic calculus 
+- [Linear Algebra](https://nptel.ac.in/courses/111/107/111107106/): Here you will learn linear algebra concepts.
+- [Probability & Statistics](https://nptel.ac.in/courses/111/106/111106112/): Here start learning concepts of probability and statistics.
+- [Basic Calculus](https://www.youtube.com/watch?v=AptQ4rfg79c&list=PL62urGZoWoiQBb2VjW7zsgmAbpuUnjCmt): Learn basic calculus 
 These topics will help you understand machine learning algorithms.
